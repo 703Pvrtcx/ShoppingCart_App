@@ -1,0 +1,2 @@
+# ShoppingCart_App
+AngularFireStore
