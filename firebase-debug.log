@@ -1,0 +1,25 @@
+[debug] [2020-11-13T09:58:07.149Z] ----------------------------------------------------------------------
+[debug] [2020-11-13T09:58:07.151Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\codeTribe-Cody\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-11-13T09:58:07.151Z] CLI Version:   7.12.1
+[debug] [2020-11-13T09:58:07.151Z] Platform:      win32
+[debug] [2020-11-13T09:58:07.151Z] Node Version:  v12.13.0
+[debug] [2020-11-13T09:58:07.152Z] Time:          Fri Nov 13 2020 11:58:07 GMT+0200 (South Africa Standard Time)
+[debug] [2020-11-13T09:58:07.152Z] ----------------------------------------------------------------------
+[debug] [2020-11-13T09:58:07.152Z] 
+[debug] [2020-11-13T09:58:07.160Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-11-13T09:58:07.160Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\codeTribe-Cody\Desktop\CodeTribe2020\Projects\AngularApps\ShoppingCart_App
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
